@@ -10,6 +10,7 @@
 ### 🚀 About Me
 - 🎓 Software Engineering student from Egypt 🇪🇬  
 - 🔧 Focused on Backend Development & Java  
+- ⚙️ I also work with Arduino for small hardware projects  
 - 📚 Learning by building real projects  
 - 🎯 Looking for internships in software development  
 
@@ -20,12 +21,14 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
 ### 🎯 Current Focus
 → Learning Java backend development  
 → Building small backend projects  
+→ Working with Arduino basics  
 → Preparing for internships  
 
 ---
