@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">Software Engineer (Student) | Backend Developer</h3>
+<h3 align="center">Software Engineer (Student)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer+in+Progress;Java+%7C+Python+%7C+Problem+Solver;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=6000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer" />
 </p>
 
 ---
