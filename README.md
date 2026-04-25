@@ -25,7 +25,20 @@
 ---
 
 ### 🎯 Current Focus
-```text
 → Learning Java backend development  
 → Building small backend projects  
 → Preparing for internships  
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-nashaat-b0ab08374/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">💡 Always learning, always building.</p>
